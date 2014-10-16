@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[adu:home|Door43 (adu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-adu|d43-adu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-adu/archive/master.zip|d43-adu.zip]]
+
+**Recent Changes**
+{{changes>ns = adu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/adu|Ethnologue data]]
+
